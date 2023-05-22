@@ -34,7 +34,7 @@
 
 ### 📊 Stats
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=gruvbox)
+!['s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dmitriy24S&theme=gruvbox&border_radius=4.5)
 
